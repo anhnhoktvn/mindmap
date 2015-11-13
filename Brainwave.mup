@@ -1,0 +1,79 @@
+{
+  "title": "Brainwave",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Beta",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Normal working",
+          "id": 4,
+          "attr": {
+            "position": [
+              82.5,
+              -79.5,
+              1
+            ],
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "asd",
+          "id": 6
+        },
+        "3": {
+          "title": "sdfsdf",
+          "id": 7
+        },
+        "2.5": {
+          "title": "sadsdf",
+          "id": 8
+        },
+        "2.25": {
+          "title": "adsdasd",
+          "id": 9
+        },
+        "2.375": {
+          "title": "sadasd",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "asdasd",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "asdasd",
+                  "id": 10
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "asdasd",
+      "id": 13
+    },
+    "-11": {
+      "title": "asdasd",
+      "id": 14
+    },
+    "-21": {
+      "title": "asdasd",
+      "id": 15
+    },
+    "-31": {
+      "title": "xcvxcv",
+      "id": 16,
+      "ideas": {
+        "1": {
+          "title": "ssd",
+          "id": 17
+        }
+      }
+    }
+  }
+}
